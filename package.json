@@ -1,0 +1,29 @@
+{
+  "name": "material-ui-datatable",
+  "version": "1.0.0",
+  "description": "A table plug-in for React and Material Design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qxqxqxa/material-ui-datatable.git"
+  },
+  "keywords": [
+    "Material",
+    "Design",
+    "React",
+    "Datatable",
+    "table",
+    "Material",
+    "UI",
+    "mdl"
+  ],
+  "author": "Kevin Qi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qxqxqxa/material-ui-datatable/issues"
+  },
+  "homepage": "https://github.com/qxqxqxa/material-ui-datatable#readme"
+}
