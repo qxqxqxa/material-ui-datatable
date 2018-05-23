@@ -1,6 +1,6 @@
 {
-  "name": "material-design-table",
-  "version": "1.0.5",
+  "name": "mui-react-table",
+  "version": "1.0.0",
   "description": "A table plug-in for React and Material Design.",
   "main": "build/index.js",
   "scripts": {
