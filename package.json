@@ -31,6 +31,9 @@
     "url": "https://github.com/qxqxqxa/material-ui-datatable/issues"
   },
   "homepage": "https://github.com/qxqxqxa/material-ui-datatable#readme",
+  "dependencies": {
+    "styled-components": "^3.2.6"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
@@ -45,7 +48,6 @@
     "polished": "^1.9.2",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "styled-components": "^3.2.6"
+    "react-dom": "^16.3.2"    
   }
 }
