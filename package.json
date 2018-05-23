@@ -1,6 +1,6 @@
 {
   "name": "material-design-table",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A table plug-in for React and Material Design.",
   "main": "build/index.js",
   "scripts": {
@@ -48,6 +48,6 @@
     "polished": "^1.9.2",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
-    "react-dom": "^16.3.2"    
+    "react-dom": "^16.3.2"
   }
 }
